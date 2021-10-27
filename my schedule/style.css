@@ -1,0 +1,21 @@
+body{
+background-color:#ccf2cc;
+}
+h3{
+color:#333d00;
+}
+a{
+color:#215400
+}
+img{
+border:3px solid #333d00;
+}
+div{
+width:30%;border:dotted #333d00;background-color:#b8edb8;text-align:left;float:left;
+}
+aside{
+width:30%;border:dotted #333d00;background-color:#f0fff0;text-align:right;float:right;
+}
+footer{
+width:30%;border:dotted #333d00;background-color:#ccf2cc;text-align:center;margin:auto;
+}
